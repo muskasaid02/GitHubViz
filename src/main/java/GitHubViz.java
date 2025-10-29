@@ -1,3 +1,10 @@
+
+/**
+ * @author Muska Said Hasan Mustafa and Nick Gottwal
+ * @version 2.0
+ * @date October 29, 2025
+ */
+
 import javax.swing.*;
 import javax.swing.border.EmptyBorder;
 import java.awt.*;
