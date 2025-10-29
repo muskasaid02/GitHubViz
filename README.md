@@ -173,5 +173,3 @@ For questions or issues, please contact [your email] or open an issue on GitHub.
 ---
 
 **Assignment 02 - GitHubViz 2.0**  
-[Course Name/Number]  
-[Date]
