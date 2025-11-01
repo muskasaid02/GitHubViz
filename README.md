@@ -119,7 +119,8 @@ GitHubViz/
 
 - **Java Swing**: GUI framework
 - **Java AWT**: Graphics and event handling
-- **HttpURLConnection**: HTTP requests to GitHub API
+- **TULIP Library**: Fetches files directly from GitHub API
+- **SwingWorker**: Background processing (prevents UI freezing)
 - **Maven**: Build and dependency management
 - **Regular Expressions**: Parsing GitHub API JSON responses
 
@@ -168,7 +169,7 @@ This project is created for educational purposes as part of Assignment 02.
 
 ## Contact
 
-For questions or issues, please contact [your email] or open an issue on GitHub.
+For questions or issues, please contact Muska or Nick or open an issue on GitHub.
 
 ---
 
