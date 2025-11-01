@@ -101,20 +101,6 @@ Each occurrence counts as +1 complexity.
 
 Size is measured by counting non-empty lines in each Java file.
 
-## Project Structure
-
-```
-GitHubViz/
-├── src/
-│   └── main/
-│       └── java/
-│           └── GitHubViz.java    # Main application file
-├── target/                        # Maven build output
-├── pom.xml                        # Maven configuration
-├── README.md                      # This file
-└── Diagram.png                    # Class diagram
-```
-
 ## Technologies Used
 
 - **Java Swing**: GUI framework
