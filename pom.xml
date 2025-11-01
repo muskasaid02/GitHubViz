@@ -47,7 +47,7 @@
         <artifactId>exec-maven-plugin</artifactId>
         <version>3.2.0</version>
         <configuration>
-          <mainClass>GitHubViz</mainClass>
+          <mainClass>com.githubviz.App</mainClass>
         </configuration>
       </plugin>
 
@@ -63,7 +63,7 @@
               <minimizeJar>false</minimizeJar>
               <transformers>
                 <transformer implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransformer">
-                  <mainClass>GitHubViz</mainClass>
+                  <mainClass>com.githubviz.App</mainClass>
                 </transformer>
               </transformers>
             </configuration>

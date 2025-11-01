@@ -1,7 +1,10 @@
-GitHubViz$3.class
-GitHubViz$RepoInfo.class
-GitHubViz$FileData.class
-GitHubViz$1.class
-GitHubViz$2.class
-GitHubViz$4.class
-GitHubViz.class
+com/githubviz/GitHubViz$3.class
+com/githubviz/GitHubService.class
+com/githubviz/RepoInfo.class
+com/githubviz/App.class
+com/githubviz/GitHubViz$1.class
+com/githubviz/GitHubViz$2.class
+com/githubviz/GitHubViz.class
+com/githubviz/GitHubViz$4.class
+com/githubviz/Complexity.class
+com/githubviz/FileData.class
